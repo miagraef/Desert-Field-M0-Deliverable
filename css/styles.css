@@ -9,6 +9,7 @@ body {
   background: #f5efe4;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
+  display: grid;
 }
 
 a {
